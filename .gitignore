@@ -1,0 +1,15 @@
+*.project
+*.classpath
+*/.target/
+*/.settings/
+*/target/
+*/*/target/
+*/*/.settings/
+01-spring-boot-hello-world-rest-api/.settings/
+01-spring-boot-hello-world-rest-api/target/
+02-spring-boot-todo-rest-api-h2/.settings/
+02-spring-boot-todo-rest-api-h2/target/
+03-spring-boot-web-application-h2/.settings/
+03-spring-boot-web-application-h2/target/
+04-spring-boot-web-application-mysql/.settings/
+
